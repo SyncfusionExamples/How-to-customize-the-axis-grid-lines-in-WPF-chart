@@ -40,10 +40,6 @@ You can also use the StrokeDashArray property to set the line style to a dashed 
 ## Output:
 ![Customize the axis grid lines in WPF Chart](https://user-images.githubusercontent.com/61832185/213699174-b38a6998-c7b1-4df6-a788-348020dfa9e4.png)
 
-## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
-
-To run the sample demo, refer to [System Requirements for .NET MAUI.](https://help.syncfusion.com/maui/system-requirements)
-
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
