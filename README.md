@@ -1,4 +1,4 @@
-# How-to-customize-the-axis-grid-lines-in-WPF-chart
+# How to customize the axis grid lines in WPF chart
 This sample demonstrate how to customize the axis grid lines in WPF chart.
 
 The [WPF Chart](https://www.syncfusion.com/wpf-controls/charts) provides support to customize the axis grid lines with the help of the [MajorGridLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MajorGridLineStyle), [MinorGridLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MinorGridLineStyle), [MajorTickLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MajorTickLineStyle), and [MinorTickLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MinorTickLineStyle) properties of the chart axis.
