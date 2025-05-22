@@ -46,4 +46,4 @@ You can also use the StrokeDashArray property to set the line style to a dashed 
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [how to customize the axis grid lines in WPF Chart?](https://support.syncfusion.com/kb/article/12320/how-to-customize-the-axis-grid-lines-in-wpf-chart-sfchart).
+For more details, refer to the KB on [how to customize the axis grid lines in WPF Chart](https://support.syncfusion.com/kb/article/12320/how-to-customize-the-axis-grid-lines-in-wpf-chart-sfchart).
