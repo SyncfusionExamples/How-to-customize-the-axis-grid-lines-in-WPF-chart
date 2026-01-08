@@ -1,4 +1,4 @@
-# How-to-customize-the-axis-grid-lines-in-WPF-chart
+# How to customize the axis grid lines in WPF chart
 This sample demonstrate how to customize the axis grid lines in WPF chart.
 
 The [WPF Chart](https://www.syncfusion.com/wpf-controls/charts) provides support to customize the axis grid lines with the help of the [MajorGridLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MajorGridLineStyle), [MinorGridLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MinorGridLineStyle), [MajorTickLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MajorTickLineStyle), and [MinorTickLineStyle](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_MinorTickLineStyle) properties of the chart axis.
@@ -40,6 +40,10 @@ You can also use the StrokeDashArray property to set the line style to a dashed 
 ## Output:
 ![Customize the axis grid lines in WPF Chart](https://user-images.githubusercontent.com/61832185/213699174-b38a6998-c7b1-4df6-a788-348020dfa9e4.png)
 
-## <a name="troubleshooting"></a>Troubleshooting ##
-### Path too long exception
-If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [how to customize the axis grid lines in WPF Chart](https://support.syncfusion.com/kb/article/12320/how-to-customize-the-axis-grid-lines-in-wpf-chart-sfchart).
